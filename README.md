@@ -99,3 +99,6 @@ This project is designed for **Portfolio**, **Final Year Evaluation**, and **Pla
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
+git add .                    # Stage all files
+git commit -m "commit message"   # Commit changes
+git push origin main         # Push to GitHub
